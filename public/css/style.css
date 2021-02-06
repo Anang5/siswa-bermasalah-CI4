@@ -1,0 +1,12 @@
+.sampul {
+    width: 80px;
+}
+
+.table>tbody>tr>* {
+    vertical-align: middle;
+}
+
+.bg-gradient {
+    background-color :rgb(18, 17, 88);
+}
+
